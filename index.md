@@ -8,7 +8,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 ## Projects
 [GopherGuessr](https://github.com/Divyesh-Thirukonda/gopherguessr): A campus-wide location guessing game, built off 1000+ crowd-sourced photos and played more than 15,0000 times. This was a group project through UMN's Social Coding club, my role involved designing a user authentication and profiling system in PostgreSQL and JS, as well as reducing game latency through Apache Kafka and websocket protocol integration.
 <br></br>
-[Pro Football Reference API](https://github.com/BREISAMU/pro-football-reference-api): An external web-scraping powered API servicing GET requests to 10,000+ Pro Football Reference data tables. Allows for free, easy access to the extensive data provided by Pro Football Reference. This API was documented, tested and managed API construction using Postman, and containerized using Docker.
+[Pro Football Reference API](https://github.com/BREISAMU/pro-football-reference-api): An external web-scraping powered API servicing GET requests to 10,000+ Pro Football Reference data tables. Allows for free, easy access to the extensive data provided by Pro Football Reference. This API was documented, tested and managed API using Postman, and containerized using Docker.
 <br></br>
 [KenKen Solver with Heuristic Evaluation](https://github.com/BREISAMU/kenken-heuristic-evaluation): An agent that solves KenKen puzzle matrices by representing them as constraint satisfaction problems, optimized through custom heuristics that prune the agent's search space. Can solve 9x9 KenKen puzzles in less than 4 seconds.
 <br></br>
@@ -17,7 +17,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 ## Work Experience
 ### Software Engineering Intern - DraftKings:
 - Designing API endpoints in C# to power DraftKings Pick6, each servicing over 2 million daily requests.
-- Integrating Apache Kafka and Kubernetes to build scaleable event-driven pipelines, reducing latency for over 4 million users.
+- Integrating Apache Kafka and Kubernetes to build scalable event-driven pipelines, reducing latency for over 4 million users.
 - Leveraging Docker and Jenkins-based CI/CD pipelines to automate build, test, and deployment processes.
 ### Teaching Assistant - University of Minnesota
 - Led labs and office hours to assist 180+ students in learning the principles of computer science in C++.
@@ -30,7 +30,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 ## Involvement
 <b>Social Coding:</b> Led a network of programmers in developing Gopher Major Planner, Gopher Guessr and other software solutions with a positive impact on our community
 
-<b>UMN Centennial Scholars:</b>Admitted into merit-based scholarship program focused on innovation, achievement, and diversity in academic and professional spaces.
+<b>UMN Centennial Scholars:</b> Admitted into merit-based scholarship program focused on innovation, achievement, and diversity in academic and professional spaces.
 <br></br>
 ## Skills
 ### Languages:
