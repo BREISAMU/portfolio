@@ -13,7 +13,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 
 [KenKen Solver with Heuristic Evaluation](https://github.com/BREISAMU/kenken-heuristic-evaluation): An agent that solves KenKen puzzle matrices by representing them as constraint satisfaction problems, optimized through custom heuristics that prune the agent's search space. Can solve 9x9 KenKen puzzles in less than 4 seconds.
 
-<b>Note: I believe these 3 projects best represent my ability, and are the ones I am most proud of. My full portfolio can be found on my Github profile.</br>
+<b>Note: I believe these 3 projects best represent my ability, and are the ones I am most proud of. My full portfolio can be found on my Github profile.</b>
 
 
 ## Work Experience
@@ -21,9 +21,11 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - Designing API endpoints in C# to power DraftKings Pick6, each servicing over 2 million daily requests.
 - Integrating Apache Kafka and Kubernetes to build scalable event-driven pipelines, reducing latency for over 4 million users.
 - Leveraging Docker and Jenkins-based CI/CD pipelines to automate build, test, and deployment processes.
+- 
 ### Teaching Assistant - University of Minnesota
 - Led labs and office hours to assist 180+ students in learning the principles of computer science in C++.
 -  Enhanced my own programming and communication skills by resolving students’ bugs and roadblocks.
+-  
 ### Software Development Intern - WEC Energy Group
 - Engineered a database management tool handling CRUD operations on internal logs, archives and metadata.
 - Utilized VB.NET and Microsoft SQL Server to deliver solutions that improved the operational efficiency of 7,000+ employees.
