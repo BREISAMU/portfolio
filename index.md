@@ -21,11 +21,11 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - Designing API endpoints in C# to power DraftKings Pick6, each servicing over 2 million daily requests.
 - Integrating Apache Kafka and Kubernetes to build scalable event-driven pipelines, reducing latency for over 4 million users.
 - Leveraging Docker and Jenkins-based CI/CD pipelines to automate build, test, and deployment processes.
-- 
+
 ### Teaching Assistant - University of Minnesota
 - Led labs and office hours to assist 180+ students in learning the principles of computer science in C++.
 -  Enhanced my own programming and communication skills by resolving students’ bugs and roadblocks.
--  
+  
 ### Software Development Intern - WEC Energy Group
 - Engineered a database management tool handling CRUD operations on internal logs, archives and metadata.
 - Utilized VB.NET and Microsoft SQL Server to deliver solutions that improved the operational efficiency of 7,000+ employees.
