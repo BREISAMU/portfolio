@@ -52,6 +52,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - Bash
 - Powershell
 - Python
+
 ### Cloud / Devops
 - Docker
 - Kubernetes
@@ -62,6 +63,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - GitHub
 - Postman
 - Jenkins
+
 ### Data & Messaging
 - Apache Kafka
 - PostgreSQL
@@ -69,6 +71,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - SQL Server
 - Rest APIs
 - Websockets
+
 ### Frameworks & Libraries
 - .NET
 - React
