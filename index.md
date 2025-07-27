@@ -82,4 +82,4 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - Tailwind CSS
 
 
-### Thanks for checking out my site! 🥳 Here are some other links you may find useful: [LinkedIn](https://www.linkedin.com/in/samuel-breider-2a305024a/), [Github](https://github.com/BREISAMU), [Resume](https://github.com/BREISAMU/portfolio/blob/main/Samuel_Breider_Resume_SWE.pdf)
+### Thanks for checking out my site! 🥳 Here are some other links you may find useful: [LinkedIn](https://www.linkedin.com/in/samuel-breider-2a305024a/), [Github](https://github.com/BREISAMU), [Resume](https://github.com/BREISAMU/portfolio/blob/main/Samuel_Breider_Resume.pdf)
