@@ -7,7 +7,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 
 
 ## Projects
-[GopherGuessr](https://github.com/Divyesh-Thirukonda/gopherguessr): A campus-wide location guessing game, built off 1000+ crowd-sourced photos and played more than 15,0000 times. This was a group project through UMN's Social Coding club, my role involved designing a user authentication and profiling system in PostgreSQL and JS, as well as reducing game latency through Apache Kafka and websocket protocol integration.
+[GopherGuessr](https://github.com/Divyesh-Thirukonda/gopherguessr): A campus-wide location guessing game, built off 1000+ crowd-sourced photos and played more than 15,0000 times. This was a group project through UMN's Social Coding club, my role involved designing a user authentication and profiling system in PostgreSQL and JS, as well as reducing game latency through Apache Kafka and websocket protocol integration. Very much inspired by GeoGuessr.
 
 [Pro Football Reference API](https://github.com/BREISAMU/pro-football-reference-api): An external web-scraping powered API servicing GET requests to 10,000+ Pro Football Reference data tables. Allows for free, easy access to the extensive data provided by Pro Football Reference. This API was documented, tested and managed API using Postman, and containerized using Docker.
 
@@ -18,17 +18,17 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 
 ## Work Experience
 ### Software Engineering Intern - DraftKings:
-- Designing API endpoints in C# to power DraftKings Pick6, each servicing over 2 million daily requests.
-- Integrating Apache Kafka and Kubernetes to build scalable event-driven pipelines, reducing latency for over 4 million users.
-- Leveraging Docker and Jenkins-based CI/CD pipelines to automate build, test, and deployment processes.
+- Designed REST API endpoints to power user navigation across Pick6, each receiving 2 million requests a day.
+- Used C#, ASP.NET, and Apache Kafka to build efficient backend systems that enable real-time data communication across services.
+- Leveraged Docker, Kubernetes and Jenkins-based CI/CD pipelines to automate build, deployment, and scaling workflows.
 
 ### Teaching Assistant - University of Minnesota
-- Led labs and office hours to assist 180+ students in learning the principles of computer science in C++.
--  Enhanced my own programming and communication skills by resolving students’ bugs and roadblocks.
+- Taught C++ and OOP fundamentals to almost 200 students, leading daily labs and office hours.
+- Enhanced my programming and collaboration skills by resolving students’ bugs and roadblocks.
   
 ### Software Development Intern - WEC Energy Group
-- Engineered a database management tool handling CRUD operations on internal logs, archives and metadata.
-- Utilized VB.NET and Microsoft SQL Server to deliver solutions that improved the operational efficiency of 7,000+ employees.
+- Engineered a database management API that handles CRUD operations on internal logs, archives and metadata.
+- Utilized VB.NET and Microsoft SQL Server to deliver solutions that improved operational efficiency across multiple teams.
 - Refactored and streamlined over 30 legacy SQL procedures, reducing processing times by up to 40%.
 
 
