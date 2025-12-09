@@ -3,8 +3,7 @@ I'm an incoming senior at the University of Minnesota. I am primarily interested
 
 In my free time I enjoy skiing, hiking, KenKen puzzles and coding.
 
-Below is a collection of my skills, work experience, personal projects, etc. A note I would like to accompany these with is that I pride myself on my ability to embrace change and pick up new skills. If my experiences don't quite align with what an opportunity is looking for, I am confident I can adapt to be a good fit.
-
+Below is a collection of my skills, work experience, personal projects, etc. A note I would like to accompany these with is that I pride myself on my ability to embrace change and pick up new skills. If my experiences don't quite align with what an opportunity is looking for, I am confident I can adapt to be a good fit
 
 ## Projects
 [GopherGuessr](https://github.com/Divyesh-Thirukonda/gopherguessr): A campus-wide location guessing game, built off 1000+ crowd-sourced photos and played more than 15,0000 times. This was a group project through UMN's Social Coding club, my role involved designing a user authentication and profiling system in PostgreSQL and JS, as well as reducing game latency through Apache Kafka and websocket protocol integration. Very much inspired by GeoGuessr.
@@ -17,6 +16,11 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 
 
 ## Work Experience
+### Software Engineering Extern - Medtronic:
+- Building a custom BERT + KNN workflow that matches pacemaker log abnormalities with known bugs.
+- Using the Elastic Stack and Python to serve model outputs.
+- Improving the reliability of life-saving devices used by 300,000+ people.
+
 ### Software Engineering Intern - DraftKings:
 - Designed REST API endpoints to power user navigation across Pick6, each receiving 2 million requests a day.
 - Used C#, ASP.NET, and Apache Kafka to build efficient backend systems that enable real-time data communication across services.
@@ -41,6 +45,7 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 ## Skills
 ### Languages:
 - C#
+- Python
 - Go
 - Java
 - SQL
@@ -51,7 +56,6 @@ Below is a collection of my skills, work experience, personal projects, etc. A n
 - VB .NET
 - Bash
 - Powershell
-- Python
 
 ### Cloud / Devops
 - Docker
